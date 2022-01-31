@@ -14,5 +14,6 @@ is valuable for me.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about services or employment. I am currently looking for a good
-web development opportunity.
+You can also use the form below for any inquiries about services or employment. 
+My social media links are at the bottom if you would like to message me. I am currently 
+looking for a good web development opportunity.
