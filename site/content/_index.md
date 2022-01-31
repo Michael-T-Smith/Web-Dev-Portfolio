@@ -1,20 +1,20 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Meet your next developer."
+subtitle: 
+image: /img/aboutme-header.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: About me
+    text: "I am a passionate full-stack developer who is not afraid to step into the unknown with a new and upcoming frameworks or languages. I have excessive training in the workings of development through multiple schoolings from coding boot camps to college courses. While I am working on my Bachelors in Information Technology for Software Development (expected graduation date Jan 2024) I already have the knowledge and the work ethic to complete my tasks in a timely manner."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "What I offer "
+    text: "I offer an exceptional work ethic derived from southern hospitality and military discipline to bring your next project to life. I am fully capable of creating android and web applications to suite your needs. "
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: img/android-image.jpg
+      text: "Technologies I have used for Android: Java, Android Studio, Ionic, Cordova, DroidKit, React Native, JQuery Mobile"
+    - image: /img/web-image.jpg
+      text: "Technologies I have used for Web Dev: NodeJS, JavaScript, NPM, Angular, Firebase, Axios, React, Spring, Vue.js"
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: My background
+    text: I grew up in a small town in Alabama and hated it, so I joined the military at 17, saw the world, and loved it. During my years in the service, I always had a laptop with me and was always interested in programming, after my 8 years I left and am currently pursuing a career in development. I am working towards my degree but I am always brushing up on my skills as a developer, I am currently a software engineer at Firefly Integrations working on mobile applications however, I would like to make the switch to web development. 
 ---
 
