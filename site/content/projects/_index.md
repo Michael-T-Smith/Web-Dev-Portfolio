@@ -2,14 +2,6 @@
 title: "Projects"
 image: /img/projects-header.jpg
 values:
-  - heading: "Amazon Clone"
-    text: >
-      Using React, Firebase, Stripe, and Axios, I have developed and deployed
-      a basic working e-commerce website that mimics (to a lesser degree)
-      what the Amazon store does. Complete with user registration, authentication,
-      card payment, and asynchronous tasks. Click Image to visit APP.
-    imageUrl: "/img/amazon-clone.jpg"
-    imageLink: "https://clone-b2a90.web.app/"
   - heading: "Vegatouch Apps"
     text: >
        Developed, improved, and maintained the Mira and Eclipse apps for Firefly Integrations. 
@@ -19,10 +11,19 @@ values:
        Several bigger projects required reverse engineering to properly integrate functionality and statuses.
     imageUrl: "/img/vegatouch-ipad-iphone.png"
     imageLink: "https://play.google.com/store/apps/details?id=com.firefly.mira&hl=en_US&gl=US"
-  # - heading: "Project 3"
-  #   text: >
-  #     Project 3 Info. **Spotify Clone**
-  #   imageUrl: "/img/about-sustainable-farming.jpg"
+  - heading: "Amazon Clone"
+    text: >
+      Using React, Firebase, Stripe, and Axios, I have developed and deployed
+      a basic working e-commerce website that mimics (to a lesser degree)
+      what the Amazon store does. Complete with user registration, authentication,
+      card payment, and asynchronous tasks. Click image to view app.
+    imageUrl: "/img/amazon-clone.jpg"
+    imageLink: "https://clone-b2a90.web.app/"
+  - heading: "Tinder Clone"
+    text: >
+      Using MongoDB, Firebase, Postman, and Heroku, I have developed and deployed a generic Tinder-clone complete with both backend and frontend development. The backend allows for storage of names and images associated with users on MongoDB. Click image to view app.
+    imageUrl: "/img/tinder-clone.jpg"
+    imageLink: "https://tinder-clone-msdev.web.app/"
   # - heading: "Project 4"
   #   text: >
   #     Project 4 Info **Need inspiration**
